@@ -2,7 +2,7 @@
 <tincan xmlns="http://projecttincan.com/tincan.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<activities>
 		<activity id="ispring://quizzes/B57ED18C-92D9-48BC-9164-DC3E90326A0E" type="http://adlnet.gov/expapi/activities/course">
-			<name lang="und">Test</name>
+			<name lang="und">test</name>
 			<description lang="und"></description>
 			<launch>res/index.html</launch>
 		</activity>
