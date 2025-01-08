@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="Gm7LCtlWJ4tzM" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom:lom>
+			<lom:general>
+				<lom:title>
+					<lom:langstring>Tính đối xứng</lom:langstring>
+				</lom:title>
+			</lom:general>
+			<lom:educational>
+				<lom:typicallearningtime>
+				<lom:datetime>01:00:00</lom:datetime>
+				</lom:typicallearningtime>
+			</lom:educational>
+		</lom:lom>
+	</metadata>
+	<organizations default="Gm7LCtlWJ4tzM_organization">
+		<organization identifier="Gm7LCtlWJ4tzM_organization">
+
+			<title>Tính đối xứng</title>
+			<item identifier="855DD8B8-C4E0-4728-A9FE-940E1CFDF305" identifierref="resource">
+				<title>Tên bài kiểm tra</title>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+			<file href="res/data/audios/snd-c8b5-716c-018a-cdf4.mp3"/>
+<file href="res/data/audios/snd-d871-e733-1e2c-8f21.mp3"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/fonts/fnt0.woff"/>
+<file href="res/data/fonts/fnt1.woff"/>
+<file href="res/data/fonts/fnt2.woff"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/html5.png"/>
+<file href="res/data/images/img-1973-be63-9cca-9d20.jpg"/>
+<file href="res/data/images/img-3079-f16c-7e23-bf5f.jpg"/>
+<file href="res/data/images/img-4b7a-d581-7a72-98e8.jpg"/>
+<file href="res/data/images/img-682c-98a7-8a2d-1c4d.jpg"/>
+<file href="res/data/images/img-6a23-18fb-7895-50be.jpg"/>
+<file href="res/data/images/img-85c4-7f86-a623-9884.jpg"/>
+<file href="res/data/images/img-8bd0-efb0-12d7-88fc.jpg"/>
+<file href="res/data/images/img-94bb-4c73-71df-36c9.png"/>
+<file href="res/data/images/img-a396-ad6f-898b-5fb4.jpg"/>
+<file href="res/data/images/img-a42c-e15b-3d2a-5226.png"/>
+<file href="res/data/images/img-a51b-7c10-c7b1-b5dd.jpg"/>
+<file href="res/data/images/img-b6e0-7124-7d96-1256.jpg"/>
+<file href="res/data/images/img-c177-dd54-b4da-02ba.png"/>
+<file href="res/data/images/img-e777-fd45-d070-7d54.jpg"/>
+<file href="res/data/images/img-f226-5653-5dd3-1c8c.jpg"/>
+<file href="res/data/images/img-fb42-6af7-2c47-6fed.jpg"/>
+<file href="res/data/images/quiz_bg_0.png"/>
+<file href="res/data/lms.js"/>
+<file href="res/data/player.js"/>
+<file href="res/index.html"/>
+
+		</resource>
+	</resources>
+</manifest>
